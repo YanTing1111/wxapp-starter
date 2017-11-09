@@ -1,11 +1,11 @@
 App({
-  onLaunch(options) {
+  onLaunch (options) {
   },
-  onShow(options) {
+  onShow (options) {
   },
-  onHide() {
+  onHide () {
   },
-  onError(error) {
+  onError (error) {
   },
   globalData: {
   }
