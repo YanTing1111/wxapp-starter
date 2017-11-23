@@ -9,3 +9,14 @@
 @import 'styles/spac.wxss';
 @import 'styles/action.wxss';
 @import 'styles/story.wxss';
+
+page{
+    background: #f8f8f8;
+
+}
+.section{
+    /* rem rpx % vh(相对高度) vw    相对于viewport */
+    /* 占满一屏 */
+    height: 100vh;
+    background: #333;
+}
