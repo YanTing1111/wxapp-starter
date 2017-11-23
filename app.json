@@ -10,9 +10,7 @@
     "navigationBarTitleText": "宁皓汽车",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTextStyle": "black"
-    // "enablePullDownRefresh": true,
-    // "backgroundTextStyle": "dark",
-    // "backgroundColor": "#ededed"
+  
   },
   "tabBar": {
     "selectedColor": "#000000",
@@ -21,13 +19,13 @@
     "list": [
       {
         "text": "故事",
-        "pagePath": "pages/stories/index",
+        "pagePath": "pages/index/index",
         "iconPath": "assets/icons/home.png",
         "selectedIconPath": "assets/icons/home-active.png"
       },
       {
         "text": "演示",
-        "pagePath": "pages/demo/demo",
+        "pagePath": "pages/stories/index",
         "iconPath": "assets/icons/event.png",
         "selectedIconPath": "assets/icons/event-active.png"
       }
